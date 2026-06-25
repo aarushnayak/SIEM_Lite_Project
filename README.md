@@ -195,7 +195,7 @@ The Flask web dashboard provides:
 - 📁 Export alerts to CSV
 - 🔍 Filter by IP, time, or severity
 
----
+----
 
 ## 🛠️ Technologies Used
 
