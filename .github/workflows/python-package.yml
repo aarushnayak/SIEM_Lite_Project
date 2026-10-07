@@ -22,3 +22,5 @@ jobs:
     - name: Check scripts exist
       run: |
         python -c "import ast; ast.parse(open('scripts/siem_lite.py').read())"
+
+        # new update will be come 
